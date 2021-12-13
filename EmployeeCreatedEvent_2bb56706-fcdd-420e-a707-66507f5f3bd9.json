@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "3.1",
+  "specVersion": "2.9",
+  "id": "432cc207-40d4-469f-b062-97841dfc7197",
+  "timestamp": "2021-09-08T19:43:43.415Z",
+  "effectiveDatetime": "2021-09-08T19:00:00Z",
+  "tenantId": "5923a6e3_32bc_9c0f_b82e_c7b9bcddbdav",
+  "correlationId": "86cdf05d-6837-4b07-ade6-50d52c29c6d7",
+  "type": "opp-ds.employment.created",
+  "body": "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\u003d\u003d",
+  "metadata": {
+    "traceId": "aa521833-694c-41a7-b3cf-d8fe1babf7f5",
+    "effectiveDateTime": "2021-09-08T19:00:00Z",
+    "appId": "opp-ds-employment-write",
+    "correlationId": "86cdf05d-6837-4b07-ade6-50d52c29c6d7",
+    "noop-disabled": false,
+    "routing_key": "723cee49-3d5d-4246-8d1e-b23167ad7dba_432cc207-40d4-469f-b062-97841dfc7197"
+  },
+  "aggregateId": "723cee49-3d5d-4246-8d1e-b23167ad7dba",
+  "sequenceNumber": 0,
+  "validation": "VALID",
+  "cryptoKeyId": "1166155859",
+  "contentEncoding": "gzip;aesgcm;base64",
+  "contentType": "application/json",
+  "dataCenter": "DLAS1"
+}
